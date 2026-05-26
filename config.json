@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserncrypt",
+        "uuid": 115000,
+        "checksum": "uri4no"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
